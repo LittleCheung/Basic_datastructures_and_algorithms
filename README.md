@@ -7,7 +7,7 @@
 ✨排名不分先后，上榜各凭本事（主要还是取决个人感觉）
 
 - 在线教程类
-  - ⭐ LeetCode LeetBook（LeetCode官方提供的数据结构和算法资料，~~最主要是能白嫖~~）：https://leetcode-cn.com/leetbook/
+  - ⭐ LeetCode LeetBook（LeetCode官方提供~~能白嫖~~的数据结构和算法资料）：https://leetcode-cn.com/leetbook/
   - ⭐ 代码随想录 (包含各种算法问题思路讲解和算法实现，强烈推荐): https://programmercarl.com/
 - 人尽皆知的刷题宝库
   - ⭐ LeetCode（不刷个几百道题都不好意思说熟悉基本数据结构和算法）：https://leetcode-cn.com/
@@ -22,4 +22,4 @@
   - LeetCode 题解（C++）：https://github.com/soulmachine/leetcode
   - LeetCode Cookbook（Go 语言）：https://github.com/halfrost/LeetCode-Go
 - 在线学习视频
-  - 尚硅谷Java数据结构与算法（韩顺平老师讲解的课程，可能实在B站找到的最好的数据结构和算法讲解视频了，内容很全，就是有时候韩老师的思路不太好理解，可以结合书本一起看视频辅助理解）：https://www.bilibili.com/video/BV1E4411H73v
+  - 尚硅谷Java数据结构与算法（韩顺平老师讲解的课程，可能是在B站能找到最好的数据结构和算法讲解视频了，内容很全讲解也很细致，就是有时候韩老师的代码思路不太好理解，可以结合书本一起看视频辅助理解）：https://www.bilibili.com/video/BV1E4411H73v

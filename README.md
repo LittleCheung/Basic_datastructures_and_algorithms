@@ -8,7 +8,7 @@
 
 - 在线教程类
   - ⭐ LeetCode LeetBook（LeetCode官方提供~~能白嫖~~的数据结构和算法资料）：https://leetcode-cn.com/leetbook/
-  - ⭐ 代码随想录 (包含各种算法问题思路讲解和算法实现，强烈推荐): https://programmercarl.com/
+  - ⭐ 代码随想录（包含各种算法问题思路讲解和算法实现，强烈推荐）：https://programmercarl.com/
 - 人尽皆知的刷题宝库
   - ⭐ LeetCode（不刷个几百道题都不好意思说熟悉基本数据结构和算法）：https://leetcode-cn.com/
 - 算法书籍类
